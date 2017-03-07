@@ -4,3 +4,7 @@ data
 models
 *.swp
 *.p
+.DS_Store
+checkpoint
+lenet.*
+test_signs/
